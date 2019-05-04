@@ -6,4 +6,4 @@
 
 screenshot jawaban no 6
 
-
+https://github.com/x3xmermaid/arkademy_bootcamp/issues/1#issue-440301966
