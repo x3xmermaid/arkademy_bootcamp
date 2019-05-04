@@ -4,4 +4,6 @@
 4. untuk soal no 6 control sistemnya ada di dalam database.php
 5. jika masih ada yg kurang dimengerti bisa hubungi no wa 082391082250
 
+screenshot jawaban no 6
+
 
