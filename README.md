@@ -6,4 +6,5 @@
 
 screenshot jawaban no 6
 
-https://user-images.githubusercontent.com/32973695/57176750-fadcf080-6e85-11e9-8791-8cffaafd7a9a.png
+![qweqwe](https://user-images.githubusercontent.com/32973695/57176750-fadcf080-6e85-11e9-8791-8cffaafd7a9a.png)
+
